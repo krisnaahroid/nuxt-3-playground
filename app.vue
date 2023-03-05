@@ -1,7 +1,7 @@
 <template>
   <div>
     <full-page ref="fullpage" :options="options" id="fullpage">
-      <div class="section"><nuxt-img src="/logo.svg" /></div>
+      <div class="section"><img src="/logo.svg" /></div>
       <div class="section">Second section ...</div>
     </full-page>
   </div>
